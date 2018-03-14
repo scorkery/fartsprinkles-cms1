@@ -1,0 +1,123 @@
+.main {
+	float: right;
+	width: 70%;
+	margin-right:5%;	
+}
+
+.navbar {
+	float: left;
+	background-color: #f4f4f4;
+	margin-right: 5%;
+	width: 20%;
+}
+
+.navbar ul {
+	list-style-type:none;
+}
+
+.navbar a {
+	text-decoration:none;
+	color:blue;
+}
+
+.navbar a:hover {
+	color: red;
+	text-decoration:underline;
+}
+
+.titlebar {
+	float: left;
+	width: 68%;
+	margin-right: 5%;
+	padding: 10px;
+	text-align: center;
+	background: #f4f4f4;
+}
+
+.edit {
+	color: red;
+	font-size:9pt;
+	text-decoration:none;
+}
+
+.form-control {
+	display:block;
+	margin-bottom: 10px;
+}
+
+.table {
+	border: 1px solid black;
+	width: 100%;
+}
+
+.table th {
+	background-color: green;
+	color: white;
+	padding:10px;
+}
+
+.table td {
+	padding:10px;
+	background-color:#f4f4f4;
+	font-size:9pt;
+} 
+
+.id-field {
+	width:30px !important;
+	text-align:center;
+}
+
+.left-col {
+	float:left;
+	width:100%;
+}
+
+.right-col {
+	float:right;
+	width:100%;
+}
+
+.form-group {
+	border: 1px solid black;
+	margin-top:20px;
+	width:100%;
+	padding: 10px;
+}
+
+.titlebox {
+}
+
+.double-column {
+	column-count: 2;
+}
+
+.tiny {
+	font-size: 9pt;
+}
+
+.picture {
+	margin-bottom:20px;
+}
+
+.left {
+	float:left;
+	margin-right:20px;
+}
+
+.right {
+	float:right;
+	margin-left:20px;
+}
+
+.block {
+	display:block;
+	margin-bottom:10px;
+}
+
+.subtext {
+	text-align:center;
+	display:block;
+	margin-top:20px;
+	font-size:9pt;
+	font-style:italic;
+}

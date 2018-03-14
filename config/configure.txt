@@ -1,0 +1,4 @@
+
+siteTitle=Foofykins;
+cssfile=main.css;
+titlestring=heading;
